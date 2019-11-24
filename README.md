@@ -17,4 +17,4 @@ terraform init
 make s3 name=super-bucket-name
 ```
 
-Terraform will create bucket and user named *****super-bucket-name** in **eu-central** region.
+Terraform will create bucket and user named **super-bucket-name** in **eu-central** region.
